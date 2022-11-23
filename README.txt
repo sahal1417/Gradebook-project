@@ -1,4 +1,4 @@
-In this project we focused mainly data cleaning activities.
+In this project we focused mainly on data cleaning activities.
 
 Please open the "final_gradebook" file where you will find source code with the documentation.
 
